@@ -250,7 +250,7 @@ if choice ==1:
     while(choice!=-1):
 
 
-        ch = int(input("\n1.View cart\n2.Add to cart\n3.Remove from cart\n4.Checkout\n4.Checkout\n5.Exit"))
+        ch = int(input("\n1.View cart\n2.Add to cart\n3.Remove from cart\n4.Checkout\n5.Exit"))
         if(ch==1):
             cust.displayCart()
 
